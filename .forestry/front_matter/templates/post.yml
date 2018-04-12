@@ -1,4 +1,6 @@
 ---
+pages:
+- sample.html
 hide_body: false
 fields:
 - name: title
